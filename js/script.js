@@ -9,7 +9,9 @@ const app = new Vue ({
 
     data : {
         messaggio : "Primo esercizio Vue!",
-        colore : "red"
+        colore : "red", 
+        immagine : "img/img.jpg"
     }
-
+    
 });
+
